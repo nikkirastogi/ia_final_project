@@ -1,10 +1,10 @@
 # Movie Analysis on AWS
 
-This repository contains the code and configuration files for setting up a movie recommendation system on AWS.
+This repository contains the code and configuration files for setting up a movie analysis on AWS.
 
 ## Overview
 
-The movie recommendation system is designed to recommend movies to users based on their preferences. It utilizes both structured and unstructured datasets, performs data merging, cleansing, and loading, and leverages AWS services such as S3, Lambda, RDS, Glue, and SNS.
+The movie analysis system is designed to recommend movies to users based on their preferences. It utilizes both structured and unstructured datasets, performs data merging, cleansing, and loading, and leverages AWS services such as S3, Lambda, RDS, Glue, and SNS.
 
 ## Setup Instructions
 
